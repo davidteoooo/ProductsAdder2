@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "144821848763",
+    "project_id": "shopmobile-45977",
+    "storage_bucket": "shopmobile-45977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144821848763:android:c9caf9b080f7554052779e",
+        "android_client_info": {
+          "package_name": "com.example.productsadder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144821848763-vedj51q849glcu91dmf3v1re6cm20re7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSDxeTRpKVoq-NsxZhlq3CJhuvNHITHKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144821848763-vedj51q849glcu91dmf3v1re6cm20re7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144821848763:android:76831b82d4dcf7e452779e",
+        "android_client_info": {
+          "package_name": "com.training.kelineyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144821848763-lnanrogpvcren8dq437uf1sm49l37jul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.training.kelineyt",
+            "certificate_hash": "b4e53491af11ba99b001b760ec4fca29488263dc"
+          }
+        },
+        {
+          "client_id": "144821848763-vedj51q849glcu91dmf3v1re6cm20re7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSDxeTRpKVoq-NsxZhlq3CJhuvNHITHKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144821848763-vedj51q849glcu91dmf3v1re6cm20re7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
